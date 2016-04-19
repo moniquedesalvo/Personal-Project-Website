@@ -1,0 +1,63 @@
+body {
+  background: black;
+}
+
+img {
+  padding: 15px;
+}
+
+p, h3 {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 20px;
+  color: #6d6d6d;
+  line-height: 1.4;
+}
+
+#vibri {
+  border-radius: 20px;
+}
+
+#pusheen {
+  padding: 0px;
+  height: auto;
+  width: 150px;
+}
+
+.aboutme-photos {
+  height: 200px;
+  width: 200px;
+  padding-top: 0px;
+  padding-left: 0px;
+}
+
+.main {
+  margin: auto;
+  padding-top: 15%;
+  width: 862px;
+}
+
+.main-content {
+  width: 655px;
+  padding-top: 5%;
+}
+
+.button-second {
+  float: right;
+  display: block;
+  padding-top: 75px;
+}
+
+.button-first {
+  float: left;
+  display: block;
+  padding-top: 75px;
+}
+
+img .button-second {
+  height: 100px;
+  width: 100px;
+}
+
+img .button-first {
+  height: 100px;
+  width: 100px;
